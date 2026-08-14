@@ -1,0 +1,6 @@
+{
+  "name": "Ole Ole",
+  "description": "Onside - Never Miss a Match. Live football match centre with real-time scores, tactical AI match reviews, standings, news aggregation, revenue memberships, and VIP auction house.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
